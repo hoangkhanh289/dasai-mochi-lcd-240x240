@@ -27,14 +27,14 @@ def process_image(input_file, output_folder, step_degree, total_images, crop_siz
 
 # Cấu hình
 process_image(
-    "E:/tool/SD/analog_mode/mode_3/Untitled2.png",
-    "E:/tool/SD/analog_mode/mode_3/hour",
+    "tool/hour.png",
+    "tool/hour",
     -0.5,
     720,
 )
 process_image(
-    "E:/tool/SD/analog_mode/mode_3/Untitled.png",
-    "E:/tool/SD/analog_mode/mode_3/minute",
+    "tool/minute.png",
+    "tool/minute",
     -6,
     60,
 )
