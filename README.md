@@ -16,3 +16,4 @@ Code chính được phát triển bởi **IceMan**.
 
 ## ⚖️ Bản quyền
 © 2025 **Aiot Lab**. Tất cả quyền được bảo lưu.  
+![Dasai Mochi LCD](https://raw.githubusercontent.com/hoangkhanh289/dasai-mochi-lcd-240x240/main/docs/setup_fw.png)
