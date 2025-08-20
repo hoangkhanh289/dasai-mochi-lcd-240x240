@@ -1,0 +1,24 @@
+{
+  "nameAP": "AioT_LAB",
+  "passAP": "aiotlab999",
+  "mode": 1,
+  "number_of_media_files": 5,
+  "number_of_video_files": 57,
+  "volume": 1,
+  "background_mode_color": "0x07FF",
+  "mode_color": "0xF81F",
+  "background_document_color": "0xF81F",
+  "document_color": "0x07FF",
+  "background_clock_color": "0x48C9",
+  "clock_color": "0xFF20",
+  "digital": 1,
+  "analog": 1,
+  "intro": true,
+  "time_delay": 10,
+  "gmt_offset": 25200,
+  "daylight_offset": 0,
+  "ntp_servers": [
+    "0.asia.pool.ntp.org",
+    "time.google.com"
+  ]
+}

@@ -1,0 +1,2 @@
+i : tên file / địa chỉ file mp4
+                   f 'ffmpeg -i {i}.mp4 -vf "fps=8,scale=240:240" -pix_fmt rgb565le -f rawvideo {i}.bin && ' f 'ffmpeg -i {i}.mp4 -vn -acodec pcm_s16le -ar 16000 -ac 1 {i}.wav'
